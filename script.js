@@ -29,6 +29,6 @@ function calcAmtPerPrs(totalBill, numOfPpl){
 
 let amtPerPers = calcAmtPerPrs(totalBill, numOfPpl)
 
-console.log('Tip: $' = tip)
+console.log('Tip: $' + tip)
 console.log('Total Bill: $' + totalBill);
 console.log('Amount per person: $' + amtPerPers);
